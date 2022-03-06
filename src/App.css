@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.forecast_day {
+  display: flex;
+  justify-content: center;
+}
+
+.forecast_day div {
+ margin:0 1em;
+}
